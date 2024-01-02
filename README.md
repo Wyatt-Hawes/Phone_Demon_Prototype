@@ -2,19 +2,23 @@
 
 - In collaboration with Anna, Alyse, Lumina, Thurmann, and myself
 
+[![Explanation Video](./src/prototype.PNG)](https://drive.google.com/file/d/1jSVpwWEN2mmoxpgBPGAeUrWiYbZ_yaZj/view?usp=sharing)
+
+##### (Video links to google drive video)
+
 # How to Play with the Phone Demon
 
 ## 1) Connect to the WhatsApp Sandbox
 
-![Connect1.png](./images/connect1.PNG)
+![Connect1.png](./src/connect1.PNG)
 
 ### And text "join determine-according" to the sandbox number
 
-![Connect2.png](./images/connect2.PNG)
+![Connect2.png](./src/connect2.PNG)
 
 ## 2) Send a text message to the above number on WhatsApp
 
-![Connect3.png](./images/connect3.PNG)
+![Connect3.png](./src/connect3.PNG)
 
 ## 3) Continue to text the demon to receive various fortunes
 
